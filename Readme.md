@@ -15,10 +15,10 @@
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project 01</h3>
+<h3 align="center">Project 02</h3>
 
   <p align="center">
-    Trending 2025
+    Restaurant Landing Page
     <br />
     <br />
     <a href="https://trending25.netlify.app/">View Demo</a>
