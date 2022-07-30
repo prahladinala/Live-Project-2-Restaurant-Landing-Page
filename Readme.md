@@ -76,7 +76,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://trending25.netlify.app/)
+[Live Project URL](https://ineuron-restaurant-page.netlify.app/)
 
 <!-- LEARNT -->
 
@@ -122,7 +122,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 
 Project Link: [https://github.com/prahladinala/Live-Project-2-Restaurant-Landing-Page](https://github.com/prahladinala/Live-Project-2-Restaurant-Landing-Page)
 
-Live Project URL: [https://github.com/prahladinala/Live-Project-2-Restaurant-Landing-Page](https://github.com/prahladinala/Live-Project-2-Restaurant-Landing-Page)
+Live Project URL: [https://ineuron-restaurant-page.netlify.app/](https://ineuron-restaurant-page.netlify.app/)
 
 <!-- BACK TO TOP -->
 
@@ -174,5 +174,5 @@ Live Project URL: [https://github.com/prahladinala/Live-Project-2-Restaurant-Lan
 
 <!-- Project screenshot -->
 
-[product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://trending25.netlify.app/
+[product-screenshot]: /readme_assets/project02.jpg
+[project-url]: https://ineuron-restaurant-page.netlify.app/
